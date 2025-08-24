@@ -200,5 +200,3 @@ scene.add(createOrbit(orbitRadii.uranus));
 scene.add(createOrbit(orbitRadii.neptune));
 
 animate();
-
-//change background color
